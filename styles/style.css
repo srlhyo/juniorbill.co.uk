@@ -93,7 +93,7 @@ h2 {
 .MenuItem {
     color: white;
     background-color:black;
-    font-style:italic;
+    font-style:normal;
     font-size:30px;
     padding: 2px 13px 5px 10px;
     text-align: center;
