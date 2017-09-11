@@ -22,7 +22,7 @@ body, li, button {
     box-sizing: border-box;
     margin-top: 55px;
     font-weight: bold;
-    text-transform: uppercase;
+    text-transform: capitalize;
     width: 700px;
 }
 
