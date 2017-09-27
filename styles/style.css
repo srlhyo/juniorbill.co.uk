@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Francois+One:400,700');
 
 body {
-    background-image: url('../images/webbackground2_1.jpg');
+    background-image: url('../images/superweb.jpg');
     background-size: 100% auto;
     background-color: black;
     margin:0;
@@ -233,7 +233,7 @@ a {
 }
 
 .link {
-    color: #473A17;
+    color: #866E26;
 }
 
 .small-text {
