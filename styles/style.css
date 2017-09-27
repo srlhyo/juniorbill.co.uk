@@ -176,10 +176,22 @@ a {
     margin-top: 50px;
 }
 
-/*.tour-dates {
-    height:360px;
-    width:390px;
-    border:1px;
-    background-color:#FFF;
-    overflow:auto;
-}*/
+
+/****** MUSIC PAGE *******/
+
+.one {
+    margin-top: 50px;
+}
+
+.two {
+    margin-left: 90px;
+}
+
+.three {
+    
+}
+
+.four {
+    margin-top: 50px;
+    margin-left: 90px;
+}
