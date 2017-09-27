@@ -120,7 +120,7 @@ h2 {
 }
 
 /* photos */
-.left-col, .right-col {
+/*.left-col, .right-col {
     display: inline-block;
     float: left;
     
@@ -131,7 +131,7 @@ h2 {
 }
 
 .right-col {
-    width: 44.5%;
+    width: 55.4%;
 }
 img {
     max-width: 100%;
@@ -142,8 +142,44 @@ img {
     margin: 0 auto;
     margin-top:40px;
     height:250px;
+}*/
+
+img {
+    margin-right: 45px;
+    margin-left: 50px;
+}
+
+.left-col {
+    margin-bottom: 30px;
+}
+
+.photos {
+    margin-top: 40px;
 }
 
 a {
     text-decoration: none;
 }
+
+.space-top {
+    margin-top: 70px;
+}
+
+.dir1 {
+    margin-right: 40px;
+}
+
+.dir3 {
+    margin-right: 40px;
+}
+.space-down {
+    margin-top: 50px;
+}
+
+/*.tour-dates {
+    height:360px;
+    width:390px;
+    border:1px;
+    background-color:#FFF;
+    overflow:auto;
+}*/
