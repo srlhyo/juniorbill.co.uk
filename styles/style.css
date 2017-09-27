@@ -195,3 +195,48 @@ a {
     margin-top: 50px;
     margin-left: 90px;
 }
+
+/******** GiGS ***********/
+
+.tour {
+    width: 700px;
+    height: 400px;
+    background-color: black;
+    color: white;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+.tour p {
+    text-align: left;
+    word-spacing: 10px;
+    letter-spacing: 1.5;
+}
+
+.heading {
+    text-transform: uppercase;
+   margin: 5px;
+}
+
+.second {
+    margin-left: 5px;
+}
+
+.short-space {
+    margin-top: -5px;
+}
+
+.link {
+    color: #473A17;
+}
+
+.small-text {
+    font-size: 14px;
+    margin-top: 40px;
+}
